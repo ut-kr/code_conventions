@@ -6,6 +6,7 @@ Commit Type | Emoji
 Initial Commit | [🎉 create {filename}](http://emojipedia.org/party-popper/)
 Documentation | [📚 {readme/license type}](http://emojipedia.org/books/)
 New Feature | [✨ added {feature}](http://emojipedia.org/sparkles/)
+Image upload | [📸 {image purpose}](http://emojipedia.org/camera-with-flash/)
 Bugfix | [🐛 fixed {issue}](http://emojipedia.org/bug/)
 Security Fix | [🔒 fixed {issue}](https://emojipedia.org/lock/)
 Performance | [🐎 updated {function}](http://emojipedia.org/horse/)
