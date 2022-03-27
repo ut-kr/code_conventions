@@ -14,5 +14,6 @@ Tooling | [🔧 updated {function}](https://emojipedia.org/wrench/)
 Restructure | [🎨 {action}](https://emojipedia.org/artist-palette/)
 Removal | [🗑️ removed {file/code}](https://emojipedia.org/wastebasket/)
 Work In Progress (WIP) | [🚧 WIP {status}](https://emojipedia.org/construction-sign/)
+Task complete | [🎁 {feature} complete](https://emojipedia.org/wrapped-gift/)
 Version Tag | [🔖 version {id}](https://emojipedia.org/bookmark/)
 
